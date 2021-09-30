@@ -7,7 +7,7 @@ A Library which allows to read and write to USB masstorage devices from STM32 bo
 ## 1. Checkout the repository and build the library</li>
 
 ```bash
-    git clone git@git.fim.uni-passau.de:frankfl/stm32_usb_lib.git
+    git clone git@github.com:FlorianFrank/STM32_USB_Lib.git
     cd stm32_usb_lib
     ./build.sh
 ```
