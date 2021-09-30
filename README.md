@@ -1,6 +1,7 @@
 # STM32_USB_Lib
 
 A Library which allows to read and write to USB masstorage devices from STM32 boards. 
+This library was tested with an STM32F429-DISK1 evaluation board.
 
 ## Installation
 
